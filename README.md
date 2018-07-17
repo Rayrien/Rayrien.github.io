@@ -13,7 +13,7 @@
     <?php
       echo file_get_contents("list.txt");
     ?>
-        </ ol>
+        </ol>
     </nav>
   <div id="control">
     <input type="button" value="white" onclick="document.getElementById('target').className='white'"/>
