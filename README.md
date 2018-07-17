@@ -14,6 +14,8 @@
       echo file_get_contents("list.txt");
     ?>
         </ol>
+         <h2>JavaScript란?</h2>
+          JavaScript는 html을 제어합니다.
     </nav>
   <div id="control">
     <input type="button" value="white" onclick="document.getElementById('target').className='white'"/>
